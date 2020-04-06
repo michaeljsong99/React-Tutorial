@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Tutorial/static/css/main.2eecb332.chunk.css",
+    "main.js": "/React-Tutorial/static/js/main.b1485b22.chunk.js",
+    "main.js.map": "/React-Tutorial/static/js/main.b1485b22.chunk.js.map",
+    "runtime-main.js": "/React-Tutorial/static/js/runtime-main.00ca9047.js",
+    "runtime-main.js.map": "/React-Tutorial/static/js/runtime-main.00ca9047.js.map",
+    "static/js/2.d562cfe4.chunk.js": "/React-Tutorial/static/js/2.d562cfe4.chunk.js",
+    "static/js/2.d562cfe4.chunk.js.map": "/React-Tutorial/static/js/2.d562cfe4.chunk.js.map",
+    "index.html": "/React-Tutorial/index.html",
+    "precache-manifest.a6cf8a09d014604d0629dcfbdba96672.js": "/React-Tutorial/precache-manifest.a6cf8a09d014604d0629dcfbdba96672.js",
+    "service-worker.js": "/React-Tutorial/service-worker.js",
+    "static/css/main.2eecb332.chunk.css.map": "/React-Tutorial/static/css/main.2eecb332.chunk.css.map",
+    "static/js/2.d562cfe4.chunk.js.LICENSE.txt": "/React-Tutorial/static/js/2.d562cfe4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00ca9047.js",
+    "static/js/2.d562cfe4.chunk.js",
+    "static/css/main.2eecb332.chunk.css",
+    "static/js/main.b1485b22.chunk.js"
+  ]
+}
