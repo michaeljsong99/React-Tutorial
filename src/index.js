@@ -1,10 +1,10 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom'; 
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(
+ReactDOM.render( // react looks at the document object with some id "root" and replaces it with App.
   <React.StrictMode>
     <App />
   </React.StrictMode>,
